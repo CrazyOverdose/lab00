@@ -15,39 +15,40 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
+
 Проверили наличие пакетов в окружении. Получили их версии
 ```sh
 # check development environment
 
-$ cmake --version #show cmake version 
-# cmake version 3.7.2
+$ cmake --version # show cmake version 
+cmake version 3.7.2
 
-$ curl --version  #show curl version
-# curl version 7.52.1
+$ curl --version  # show curl version
+curl version 7.52.1
 
-$ git --version #show git version
-# git version 2.11.0
+$ git --version # show git version
+git version 2.11.0
 
-$ g++ --version  #show g++ version
-# g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+$ g++ --version  # show g++ version
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
 
-$ hub --version  #show hub version
-# hub version 2.9.0
+$ hub --version  # show hub version
+hub version 2.9.0
 
-$ make --version  #show make version
-# GNU Make 4.1
+$ make --version  # show make version
+GNU Make 4.1
 
-$ subl --version  #show subl version
-# Sublime Text Build 3176
+$ subl --version  # show subl version
+Sublime Text Build 3176
 
-$ tree --version  #show tree version
-# tree v1.7.0
+$ tree --version  # show tree version
+tree v1.7.0
 
-$ wget --version  #show wget version
-# GNU Wget 1.18 для linux-gnu.
+$ wget --version  # show wget version
+GNU Wget 1.18 для linux-gnu.
 
-$ openssl version  #show openssl version
-#OpenSSL 1.1.0j  20 Nov 2018
+$ openssl version  # show openssl version
+OpenSSL 1.1.0j  20 Nov 2018
 
 ```
 
